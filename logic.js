@@ -13,6 +13,7 @@ var wordsList = [
   "luis"
 ];
 
+// all variables for game JS
 var chosenWord = "";
 
 var lettersInChosenWord = [];
