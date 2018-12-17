@@ -83,6 +83,7 @@ function checkLetters(letter) {
   }
 }
 
+// complete round
 function roundComplete() {
   console.log(
     "WinCount: " +
